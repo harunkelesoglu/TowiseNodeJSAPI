@@ -1,0 +1,21 @@
+{
+  "name": "towise",
+  "version": "1.0.1",
+  "description": "Towise assists you to detect human faces and bodies,etc with using the latest and reliable technology.",
+  "main": "Towise.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "keywords": [
+    "towise",
+    "computer",
+    "vision",
+    "image",
+    "processing",
+    "face detection",
+    "body detection",
+    "emotion detection"
+  ],
+  "author": "Harun KELESOGLU <harun.kelesoglu19@gmail.com> (https://medium.com/@harunkeleolu)",
+  "license": "ISC"
+}
